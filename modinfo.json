@@ -1,0 +1,20 @@
+{
+    "context": "client",
+    "identifier": "fr.pa.fr33lancer.TeamCommExplosionColor",
+    "display_name": "Team Commander Explosion Color",
+    "description": "Changes the Commander Explosion Effects to your Team Color instead of blue",
+    "author": "Fr33lancer",
+    "version": "1.0.0",
+    "build": "69515",
+    "date": "2014/07/25",
+    "signature": "not yet implemented",
+    "forum": "TBD",
+	"icon": "http://pamods.github.io/icons/TBD.gif",
+    "category": [
+	  "in-game",
+	  "shader"
+    ],
+    "id": "TeamCommExplosionColor",
+    "priority": 100,
+    "enabled": true
+}
