@@ -4,12 +4,12 @@
     "display_name": "Team Commander Explosion Color",
     "description": "Changes the Commander Explosion Effects to your Team Color instead of blue",
     "author": "Fr33lancer",
-    "version": "1.0.0",
-    "build": "70289",
-    "date": "2014/08/10",
+    "version": "2.0.0",
+    "build": "71729",
+    "date": "2014/09/10",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/rel-team-commander-explosion-color-70289.62819/",
-	"icon": "http://pamods.github.io/icons/CommBoom.gif",
+	"icon": "http://i.imgur.com/M3H5FYY.gif",
     "category": [
 	  "in-game",
 	  "shader"
